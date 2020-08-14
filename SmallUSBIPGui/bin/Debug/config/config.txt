@@ -1,0 +1,1 @@
+"C:\usbip\win\usbip.exe";10.0.68.91;"C:\Users\Public\Desktop\WinSCP.lnk";WinSCP
