@@ -16,7 +16,6 @@ namespace SmallUSBIPGui
     public partial class MainWindow : Form
     {
         public static string dongleText { get; set; }
-
         string[] configFile = System.IO.File.ReadAllText(@"config\config.txt").Split(';');
 
         public MainWindow()
@@ -24,11 +23,14 @@ namespace SmallUSBIPGui
             InitializeComponent();
             TrayMenuContext();
 
+
             this.WindowState = FormWindowState.Minimized;
             this.ShowInTaskbar = false;
             trayIcon.Visible = true;
             trayIcon.Text = "Verbindung wird hergestellt ...";
         }
+
+        #region Tray 
 
         private void TrayMenuContext()
         {
@@ -42,6 +44,8 @@ namespace SmallUSBIPGui
         {
             doEndSequenz();
         }
+
+        #endregion
 
         private void MainWindow_Load(object sender, EventArgs e)
         {

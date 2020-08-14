@@ -67,9 +67,11 @@ namespace SmallUSBIPGui
 
         private static void checkAlive(Object source, ElapsedEventArgs e, string process)
         {
+            MainWindow mainWindow = new MainWindow();
+
+            //Prüft ob der mit dem USB Stick verknüpfte Prozess noch läuft.
             if (!Process.GetProcessesByName(process).Any())
             {
-                MainWindow mainWindow = new MainWindow();
                 mainWindow.doEndSequenz();
             }
         }

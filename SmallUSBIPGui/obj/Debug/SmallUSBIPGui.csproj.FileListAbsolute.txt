@@ -8,3 +8,13 @@ C:\Users\Luca\Source\Repos\SmallUSBIPGui\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.c
 C:\Users\Luca\Source\Repos\SmallUSBIPGui\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.csproj.CoreCompileInputs.cache
 C:\Users\Luca\Source\Repos\SmallUSBIPGui\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.exe
 C:\Users\Luca\Source\Repos\SmallUSBIPGui\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.pdb
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.csprojAssemblyReference.cache
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.MainWindow.resources
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.Properties.Resources.resources
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.csproj.GenerateResource.cache
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.csproj.CoreCompileInputs.cache
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.exe
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\obj\Debug\SmallUSBIPGui.pdb
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\bin\Debug\SmallUSBIPGui.exe.config
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\bin\Debug\SmallUSBIPGui.exe
+C:\Users\Luca\Source\Repos\luupo\USB-IP-Autoconnect\SmallUSBIPGui\bin\Debug\SmallUSBIPGui.pdb
